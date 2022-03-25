@@ -6,3 +6,5 @@ If I make videos or screenshots showcasing my programs, they will also be listed
 
 
 # Patterned Floor 
+This program uses blocks the user puts in the turtle's inventory to build a patterned floor with the dimensions and pattern length given as user input.  
+https://github.com/Pecant-Pie/cc-code/blob/main/patterned-floor.lua  
